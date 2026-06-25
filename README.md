@@ -63,7 +63,14 @@ Check Java:
 
 java --version
 ```
-
+Run a Maven container:
+```bash
+docker run -it maven:3.9-eclipse-temurin-17 bash
+```
+Check Maven:
+```bash
+mvn -version
+```
 
 
 
