@@ -51,7 +51,9 @@ http://localhost:8080
 Then:
 
 Paste the password.
+
 Click Install Suggested Plugins.
+
 Create an admin user.
 ------------------------------------------
 Run a Java container:
