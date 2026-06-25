@@ -54,7 +54,7 @@ Paste the password.
 
 Click Install Suggested Plugins.
 
-Create an admin user.
+###  Create an admin user.
 ------------------------------------------
 Run a Java container:
 ```bash
