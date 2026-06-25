@@ -42,7 +42,17 @@ Inside the container:
 ```bash
 cat /var/jenkins_home/secrets/initialAdminPassword
 ```
+Open Jenkins
 
+Go to:
+```bash
+http://localhost:8080
+```
+Then:
+
+Paste the password.
+Click Install Suggested Plugins.
+Create an admin user.
 
 
 
