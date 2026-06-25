@@ -6,3 +6,11 @@ Pull the Jenkins image:
 ```bash
 docker pull jenkins/jenkins:lts
 ```
+Check:
+```bash
+docker images
+```
+You should see:
+```bash
+jenkins/jenkins   lts
+```
