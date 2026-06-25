@@ -53,7 +53,16 @@ Then:
 Paste the password.
 Click Install Suggested Plugins.
 Create an admin user.
+------------------------------------------
+Run a Java container:
+```bash
+docker run -it openjdk:17 bash
+```
+Check Java:
+```bash
 
+java --version
+```
 
 
 
